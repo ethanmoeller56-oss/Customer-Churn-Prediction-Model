@@ -36,32 +36,4 @@ Online security
 Customer tenure
 Streaming services
 
-Business Problem
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Exploratory Data Analysis
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Model Training
-(Logistic Regression,
-Decision Tree,
-Random Forest)
-        │
-        ▼
-Hyperparameter Tuning
-        │
-        ▼
-Threshold Analysis
-        │
-        ▼
-Feature Importance
-        │
-        ▼
-Business Recommendations
 

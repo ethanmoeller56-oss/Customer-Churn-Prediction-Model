@@ -29,6 +29,8 @@ The project covers the complete data science workflow:
 * Identified customer tenure, contract type, total charges, internet service, and monthly charges as major churn predictors.
 * Produced a scored customer dataset containing churn probabilities and risk levels.
 
+Link to Tableau Dashboard: https://public.tableau.com/views/CustomerChurnDashboard_17860215664000/CustomerChurnDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Business Problem
 
 A telecommunications company wants to identify customers who are likely to cancel their service before they leave.
